@@ -1,7 +1,7 @@
 name,ring,quadrant,isNew,description
 Angular,Avveckla,Språk & Ramverk,FALSE,<p>GUI ramverk för utveckling av e-tjänster och handläggningstjänster</p>
 SASS,Tillämpa,Språk & Ramverk,FALSE,<p>CSS kompilator</p>
-Powershell,Tillämpa,Språk & Ramverk,FALSE,<p>Kommandoskal för Windows. anders uppdaterar</p>
+Powershell,Tillämpa,Språk & Ramverk,FALSE,<p>PowerShell är en plattformsoberoende lösning för uppgiftsautomatisering som består av ett kommandoradsgränssnitt och ett skriptspråk och ett ramverk för konfigurationshantering.</p>
 Openlayers,Tillämpa,Språk & Ramverk,FALSE,<p> Klientramverk för utveckling av kartapplikationer	</p>
 PHP,Tillämpa,Språk & Ramverk,FALSE,<p> Språk för utveckling av webbapplikationer	</p>
 Typescript,Tillämpa,Språk & Ramverk,FALSE,<p> Utökning av Javascript med typning	</p>
